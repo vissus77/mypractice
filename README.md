@@ -1,2 +1,0 @@
-# mypractice
-to practice
